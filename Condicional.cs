@@ -12,8 +12,16 @@ namespace Condicional
 
             Console.WriteLine("tenes carnet de conducir");
 
-            carnet = ReadLine();
-
+            string carnet = ReadLine();
+            
+            if (edad>=18 && carnet=="si")
+            {
+                System.Console.WriteLine("Puedes conducir");
+            }
+            else
+            {
+                System.Console.WriteLine("No puedes conducir");
+            }
         }
     }
 }
