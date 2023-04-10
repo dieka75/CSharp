@@ -10,9 +10,12 @@ namespace Condicional
 
             int edad = Int32.Parse(Console.ReadLine());
 
+            if(edad>=18){
+
             Console.WriteLine("tenes carnet de conducir");
 
             string carnet = Console.ReadLine();
+            }
             
             if (edad>=18 && carnet=="si")
             {
