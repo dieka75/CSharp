@@ -6,15 +6,21 @@ namespace Condicional
     {
         static void Main(string[] args)
         {
+            string carnet="no";
+
             Console.WriteLine("que edad tenes?");
 
             int edad = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine("tenes carnet de conducir");
+            if (edad >= 18)
+            {
+                System.Console.WriteLine("tenes carnet de conducir?");
 
-            string carnet = Console.ReadLine();
+                carnet = Console.ReadLine();
+                
+            }
             
-            if (edad>=18 && carnet=="si")
+            if (edad>=18 && carnet == "si")
             {
                 System.Console.WriteLine("Puedes conducir");
             }
