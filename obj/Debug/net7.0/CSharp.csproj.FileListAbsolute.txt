@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Visual Studio\Cursos\CSharp\bin\Debug\net7.0\CSharp.exe
+C:\Users\Diego\Documents\Visual Studio\Cursos\CSharp\bin\Debug\net7.0\CSharp.deps.json
+C:\Users\Diego\Documents\Visual Studio\Cursos\CSharp\bin\Debug\net7.0\CSharp.runtimeconfig.json
+C:\Users\Diego\Documents\Visual Studio\Cursos\CSharp\bin\Debug\net7.0\CSharp.dll
+C:\Users\Diego\Documents\Visual Studio\Cursos\CSharp\bin\Debug\net7.0\CSharp.pdb
+C:\Users\Diego\Documents\Visual Studio\Cursos\CSharp\obj\Debug\net7.0\CSharp.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Visual Studio\Cursos\CSharp\obj\Debug\net7.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Visual Studio\Cursos\CSharp\obj\Debug\net7.0\CSharp.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Visual Studio\Cursos\CSharp\obj\Debug\net7.0\CSharp.AssemblyInfo.cs
+C:\Users\Diego\Documents\Visual Studio\Cursos\CSharp\obj\Debug\net7.0\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Visual Studio\Cursos\CSharp\obj\Debug\net7.0\CSharp.dll
+C:\Users\Diego\Documents\Visual Studio\Cursos\CSharp\obj\Debug\net7.0\refint\CSharp.dll
+C:\Users\Diego\Documents\Visual Studio\Cursos\CSharp\obj\Debug\net7.0\CSharp.pdb
+C:\Users\Diego\Documents\Visual Studio\Cursos\CSharp\obj\Debug\net7.0\CSharp.genruntimeconfig.cache
+C:\Users\Diego\Documents\Visual Studio\Cursos\CSharp\obj\Debug\net7.0\ref\CSharp.dll

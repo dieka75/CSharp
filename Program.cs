@@ -1,8 +1,8 @@
-using System;
+﻿using System;
 
 namespace Condicional
 {
-    internal class NewBaseType
+    class Program
     {
         static void Main(string[] args)
         {
@@ -12,19 +12,16 @@ namespace Condicional
 
             Console.WriteLine("tenes carnet de conducir");
 
-            string carnet = ReadLine();
-
-            if (edad < 18 || carnet != "si")
-            {
-                System.Console.WriteLine("No puedes conducir");
-            }
-            else
+            string carnet = Console.ReadLine();
+            
+            if (edad>=18 && carnet=="si")
             {
                 System.Console.WriteLine("Puedes conducir");
             }
+            else
+            {
+                System.Console.WriteLine("No puedes conducir");
+            }
         }
     }
-
-    class Program : NewBaseType;
-    
 }
